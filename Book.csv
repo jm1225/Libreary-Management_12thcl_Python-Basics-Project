@@ -1,0 +1,31 @@
+BookID,Book Name,Author,Publisher,Genre,Rating,No. Of Reads
+BK1,The Time Machine,H.G. Wells.,William Heinemann (UK),Fiction,6.7,148
+BK3,The Handmaid's Tale,Margaret Atwood,McClelland and Stewart,Fiction,7.8,234
+BK3,Brave New World, Aldous Huxley, Chatto & Windus,Fiction,4.6,293
+BK4,The Hobbit,J. R. R. Tolkien,George Allen & Unwin,Fiction,2.8,154
+BK5,Animal Farm,George Orwell,Orwell's,Fiction,8,234
+BK6,To Kill a Mockingbird,Harper Lee,J.B. Lippincott&Co.,Horror,9.7,193
+BK7,The Killing Woods,Lucy Christopher,Chicken House Books,Horror,7.4,233
+BK8,Dracula,Bram Stoker,Archibald Constable and Company (UK),Horror,5.8,190
+BK9,House of Leaves,Mark Z. Danielewski,Random House,Horror,8.7,293
+BK10,The Haunting of Hill House,Shirley Jackson,Viking,Horror,9,154
+BK11,The History of Tom Jones, Henry Fielding, Andrew Millar,Novel,5.7,200
+BK12,THE POWER OF YOUR SUBCONSCIOUS MIND,JOSEPH MURPHY,Elite,Novel,9.1,232
+BK13,Madame Bovary,Gustave Flauberty,Michel LÃƒÂ©vy FrÃƒÂ¨res,Novel,6.7,112
+BK14,Frankenstein,Mary Shelley,Frankenst,Novel,4.1,12
+BK15,Pride and Prejudice,Jane,Whitehall,Novel,7.8,200
+BK16,Jane Eyre,Eyre,Smith Elder & Co.,Romance,4.4,122
+BK17,Outlander,Diana Gabaldon,Diana,Romance,9.3,65
+BK18,The Duke and I, Julia Quinn,Quinn co.,Romance,9.2,192
+BK19, White and Royal Blue,Casey McQuiston,McClelland and Stewart,Romance,9.5,222
+BK20,The Viscount Who Loved Me,Julia Quinn,Quinn co.,Romance,9.6,143
+BK21,Sharp Objects,Gillian Flynn,Â Gillian Flynn,Suspence,7.5,221
+BK22,The Red and the Black,Henri Beyle,A. Levasseur,Suspence,6.9,122
+BK23,The Sentinel,Lee Child,Andrew Child,Suspence,5,111
+BK24,The Silent Patient,Alex Michaelides,Michaelides,Suspence,5.4,19
+BK25,Gone Girl,Gillian Flynn,Crown Publishing Group,Suspence,8.1,55
+BK26,The Fault in Our Stars,John Green,Dutton Book,Teen-Fiction,9.6,333
+BK27,The Hate U Give,Angie Thomas,Balzer-Bray,Teen-Fiction,9.5,132
+BK28,We Were Liars,E. Lockhart,Delacorte Press,Teen-Fiction,9.2,111
+BK29,Speak ,Laurie Halse Anderson,Anderson,Teen-Fiction,8.4,231
+BK30,Six of Crows,Leigh Bardugo,Quinn co.,Teen-Fiction,9.6,293
